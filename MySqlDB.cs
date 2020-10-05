@@ -6,10 +6,10 @@ namespace ClassManager
 {
     public class MySqlDB
     {
-        static String HostName = "localhost";
-        static String DatabaseName = "class_manager";
-        static String UserName = "root";
-        static String UserPassword = "";
+        //static String HostName = "localhost";
+        //static String DatabaseName = "class_manager";
+        //static String UserName = "root";
+        //static String UserPassword = "";
 
         //static String HostName = "sql12.freemysqlhosting.net";
         //static String DatabaseName = "sql12367924";
@@ -27,10 +27,10 @@ namespace ClassManager
         //Pass      Ak1234Bar
         //email     akbar@treeheir.com
 
-        //static String HostName = "MYSQL5009.site4now.net";
-        //static String DatabaseName = "db_a68612_akbartr";
-        //static String UserName = "a68612_akbartr";
-        //static String UserPassword = "mySQL1234";
+        static String HostName = "MYSQL5009.site4now.net";
+        static String DatabaseName = "db_a68612_akbartr";
+        static String UserName = "a68612_akbartr";
+        static String UserPassword = "mySQL1234";
 
 
 
