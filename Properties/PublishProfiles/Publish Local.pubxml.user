@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>F:\APCO\Software\Workspace\Web\ClassManager\Publish</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="AboutMe.aspx">
+      <publishTime>10/04/2020 12:15:17</publishTime>
+    </File>
+    <File Include="AdminPanel.aspx">
+      <publishTime>10/05/2020 10:25:49</publishTime>
+    </File>
+    <File Include="bin/ClassManager.dll">
+      <publishTime>10/05/2020 17:42:16</publishTime>
+    </File>
+    <File Include="bin/MySql.Data.dll">
+      <publishTime>08/10/2011 13:09:40</publishTime>
+    </File>
+    <File Include="calender.png">
+      <publishTime>10/04/2020 11:03:57</publishTime>
+    </File>
+    <File Include="Comments.txt">
+      <publishTime>10/05/2020 11:29:28</publishTime>
+    </File>
+    <File Include="default.aspx">
+      <publishTime>10/04/2020 10:58:48</publishTime>
+    </File>
+    <File Include="DoExam.aspx">
+      <publishTime>10/05/2020 15:50:48</publishTime>
+    </File>
+    <File Include="ExamManager.aspx">
+      <publishTime>10/04/2020 18:47:44</publishTime>
+    </File>
+    <File Include="ExamStudentList.aspx">
+      <publishTime>10/04/2020 19:04:04</publishTime>
+    </File>
+    <File Include="ExamViewer.aspx">
+      <publishTime>10/04/2020 12:15:17</publishTime>
+    </File>
+    <File Include="index.aspx">
+      <publishTime>10/04/2020 12:15:17</publishTime>
+    </File>
+    <File Include="InitDB.aspx">
+      <publishTime>10/04/2020 12:15:18</publishTime>
+    </File>
+    <File Include="Login.aspx">
+      <publishTime>10/04/2020 12:36:03</publishTime>
+    </File>
+    <File Include="Messenger.aspx">
+      <publishTime>10/04/2020 17:10:33</publishTime>
+    </File>
+    <File Include="MessengerPanel.aspx">
+      <publishTime>10/05/2020 00:36:23</publishTime>
+    </File>
+    <File Include="MyStyleSheet.css">
+      <publishTime>10/04/2020 11:03:58</publishTime>
+    </File>
+    <File Include="PostsPage.aspx">
+      <publishTime>10/04/2020 12:15:18</publishTime>
+    </File>
+    <File Include="PrecompiledApp.config">
+      <publishTime>10/05/2020 17:43:18</publishTime>
+    </File>
+    <File Include="StudentAdder.aspx">
+      <publishTime>10/04/2020 11:03:58</publishTime>
+    </File>
+    <File Include="StudentPanel.aspx">
+      <publishTime>10/05/2020 10:23:40</publishTime>
+    </File>
+    <File Include="TeacherPanel.aspx">
+      <publishTime>10/05/2020 10:26:01</publishTime>
+    </File>
+    <File Include="UserProfile.aspx">
+      <publishTime>10/04/2020 12:15:18</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>10/04/2020 19:10:02</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
